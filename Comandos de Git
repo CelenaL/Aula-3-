@@ -1,0 +1,14 @@
+git config user-name "Nombre Cualquiera"
+git config user-email 
+git clone (https del repositorio, no poner los parentesis)
+git cd (nombre del repositorio)
+git branch (nombre de la rama)
+git checkout (nuestro nombre)
+git status
+(el archivo a subir permanecera rojo)
+git add (nombre del archivo)
+git status
+(ahora debe salir en verde)
+git commit -m (añadir comentario)
+git pull origin main
+git push origin (nombre de la rama)
