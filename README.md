@@ -2,6 +2,8 @@
 ETAPA 1 - Sprint 0
 Fecha Inicio = 26/05/2022 -  Fecha de Fin = 13/06/2022
 
+_**Se extiende este plazo excepcionalmente hasta el 23 de Julio**_
+
 Cada grupo creará el Project Board Kanban sobre el Proyecto de Grupo de Estudio, donde se generen lista de tareas (ISSUES) y mediante MILESTONES, generar Sprints con tiempos estimados de finalización de un grupo de ISSUES. Por ejemplo, una tarea para agregar es
 
 - Extraer del material de Scrum los siguientes conceptos: Ceremonias, Artefactos y Roles.
@@ -13,8 +15,13 @@ Crear tareas que el equipo crea convenientes como base para afianzar los conteni
 Para dar formato para readme.md
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
 
+
+
+
 ETAPA 2 - Sprint 1  
 Fecha Inicio = 16/06/2022 -  Fecha de Fin = 07/07/2022 
+
+_**Se extiende este plazo excepcionalmente hasta el 30 de Julio**_
 
 Integrando los contenidos vistos con GitHub y, en esta oportunidad Git, utilizaremos esta consola de Git para realizar las siguientes tareas:
 
